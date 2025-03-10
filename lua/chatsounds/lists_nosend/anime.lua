@@ -10,10 +10,12 @@ L["comment"]={{path="chatsounds/autoadd/anime/comment.ogg",length=0.604}}
 L["dont sleep"]={{path="chatsounds/autoadd/anime/dont sleep.ogg",length=0.926}}
 L["dori dori dori dori"]={{path="chatsounds/autoadd/anime/dori dori dori dori.ogg",length=1.128}}
 L["eurobeat yuri"]={{path="chatsounds/autoadd/anime/eurobeat yuri.ogg",length=26.348}}
+L["evilkek"]={{path="chatsounds/autoadd/anime/evilkek.ogg",length=0.500}}
 L["fuck you"]={{path="chatsounds/autoadd/anime/fuck you.ogg",length=1.796}}
 L["good morning"]={{path="chatsounds/autoadd/anime/good morning.ogg",length=0.964}}
 L["good night"]={{path="chatsounds/autoadd/anime/good night.ogg",length=0.740}}
 L["gwah"]={{path="chatsounds/autoadd/anime/gwah.ogg",length=0.294}}
+L["gweah shindago"]={{path="chatsounds/autoadd/anime/gweah shindago.ogg",length=1.504}}
 L["gween tea"]={{path="chatsounds/autoadd/anime/gween tea/1.ogg",length=0.762},{path="chatsounds/autoadd/anime/gween tea/2.ogg",length=0.846}}
 L["hallo"]={{path="chatsounds/autoadd/anime/hallo/1.ogg",length=0.956},{path="chatsounds/autoadd/anime/hallo/2.ogg",length=0.918},{path="chatsounds/autoadd/anime/hallo/3.ogg",length=0.956},{path="chatsounds/autoadd/anime/hallo/4.ogg",length=0.956},{path="chatsounds/autoadd/anime/hallo/5.ogg",length=0.768}}
 L["hello everynyan"]={{path="chatsounds/autoadd/anime/hello everynyan.ogg",length=2.328}}
@@ -45,6 +47,7 @@ L["oh my gah"]={{path="chatsounds/autoadd/anime/oh my gah.ogg",length=1.361}}
 L["oui"]={{path="chatsounds/autoadd/anime/oui/oui 1.ogg",length=0.202},{path="chatsounds/autoadd/anime/oui/oui 2.ogg",length=0.250}}
 L["papa"]={{path="chatsounds/autoadd/anime/papa.ogg",length=0.496}}
 L["sata andagi"]={{path="chatsounds/autoadd/anime/sata andagi.ogg",length=2.508}}
+L["seeeexu"]={{path="chatsounds/autoadd/anime/seeeexu.ogg",length=3.029}}
 L["shikanokonokonoko koshitantan"]={{path="chatsounds/autoadd/anime/shikanokonokonoko koshitantan.ogg",length=2.721}}
 L["show it to me"]={{path="chatsounds/autoadd/anime/show it to me.ogg",length=0.756}}
 L["take it out"]={{path="chatsounds/autoadd/anime/take it out.ogg",length=0.512}}
@@ -56,6 +59,7 @@ L["true"]={{path="chatsounds/autoadd/anime/true/1.ogg",length=0.411},{path="chat
 L["true comment"]={{path="chatsounds/autoadd/anime/true comment.ogg",length=1.132}}
 L["true true"]={{path="chatsounds/autoadd/anime/true true.ogg",length=0.906}}
 L["tuturu"]={{path="chatsounds/autoadd/anime/tuturu.ogg",length=1.248}}
+L["unyu"]={{path="chatsounds/autoadd/anime/unyu.ogg",length=2.376}}
 L["vtuberlaugh"]={{path="chatsounds/autoadd/anime/vtuberlaugh.ogg",length=0.679}}
 L["wake up"]={{path="chatsounds/autoadd/anime/wake up.ogg",length=0.956}}
 L["water in the fire why"]={{path="chatsounds/autoadd/anime/water in the fire why.ogg",length=3.441}}

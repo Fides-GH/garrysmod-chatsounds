@@ -37,6 +37,7 @@ L["du bist ein noob"]={{path="chatsounds/autoadd/music/du bist ein noob.ogg",len
 L["falling music"]={{path="chatsounds/autoadd/music/falling music.ogg",length=9.598}}
 L["flutesounds"]={{path="chatsounds/autoadd/music/flutesounds.ogg",length=23.041}}
 L["french accordion music"]={{path="chatsounds/autoadd/music/french accordion music.ogg",length=28.286}}
+L["fucking bullshit song"]={{path="chatsounds/autoadd/music/fucking bullshit song.ogg",length=41.936}}
 L["funstep"]={{path="chatsounds/autoadd/music/funstep.ogg",length=28.762}}
 L["gasgasgas"]={{path="chatsounds/autoadd/music/gasgasgas.ogg",length=271.804}}
 L["gorillaz loop"]={{path="chatsounds/autoadd/music/gorillaz loop.ogg",length=8.190}}
@@ -47,6 +48,7 @@ L["i na nayke patsany"]={{path="chatsounds/autoadd/music/i na nayke patsany.ogg"
 L["ilovehorses"]={{path="chatsounds/autoadd/music/ilovehorses/1.ogg",length=7.389},{path="chatsounds/autoadd/music/ilovehorses/2.ogg",length=7.385},{path="chatsounds/autoadd/music/ilovehorses/3.ogg",length=7.386}}
 L["in new york"]={{path="chatsounds/autoadd/music/in new york.ogg",length=3.464}}
 L["interior crocodile alligator i drive a chevrolet movie theater"]={{path="chatsounds/autoadd/music/interior crocodile alligator i drive a chevrolet movie theater.ogg",length=5.371}}
+L["invisible song"]={{path="chatsounds/autoadd/music/invisible song/1.ogg",length=32.131},{path="chatsounds/autoadd/music/invisible song/2.ogg",length=41.190}}
 L["its a celebration"]={{path="chatsounds/autoadd/music/its a celebration.ogg",length=2.175}}
 L["jungle wet dreams tomato"]={{path="chatsounds/autoadd/music/jungle where dreams are made of.ogg",length=3.104}}
 L["jungle where dreams are made of"]={{path="chatsounds/autoadd/music/jungle where dreams are made of.ogg",length=3.104}}
