@@ -57,6 +57,8 @@ L["cmeere"]={{path="chatsounds/autoadd/memes/cmeere.ogg",length=1.354}}
 L["cmere boy"]={{path="chatsounds/autoadd/memes/cmere boy.ogg",length=0.906}}
 L["coc thud"]={{path="chatsounds/autoadd/memes/coc thud.ogg",length=3.162}}
 L["cokey cola"]={{path="chatsounds/autoadd/memes/cokey cola.ogg",length=2.270}}
+L["conductor we have a problem"]={{path="chatsounds/autoadd/memes/conductor we have a problem.ogg",length=2.225}}
+L["conductor we have a problem conductor we have a problem conductor we have a problem"]={{path="chatsounds/autoadd/memes/conductor we have a problem conductor we have a problem conductor we have a problem.ogg",length=7.159}}
 L["cracker death"]={{path="chatsounds/autoadd/memes/cracker death.ogg",length=1.620}}
 L["crazybus remix"]={{path="chatsounds/autoadd/memes/crazybus remix.ogg",length=24.018}}
 L["cream of mushrooms"]={{path="chatsounds/autoadd/memes/cream of mushrooms.ogg",length=1.997}}
