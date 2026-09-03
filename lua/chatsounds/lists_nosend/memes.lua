@@ -166,6 +166,7 @@ L["im gonna beat the shit out of you if you dont stop fucking with me"]={{path="
 L["im gonna beat your ass"]={{path="chatsounds/autoadd/memes/im gonna beat your ass.ogg",length=1.402}}
 L["im greek"]={{path="chatsounds/autoadd/memes/im greek.ogg",length=1.679}}
 L["im nathan"]={{path="chatsounds/autoadd/memes/im nathan.ogg",length=1.020}}
+L["independence day laugh"]={{path="chatsounds/autoadd/memes/independence day laugh.ogg",length=13.666}}
 L["intense laughter"]={{path="chatsounds/autoadd/memes/intense laughter.ogg",length=17.865}}
 L["is a multistage aerobic capacity test"]={{path="chatsounds/autoadd/memes/is a multistage aerobic capacity test.ogg",length=2.821}}
 L["it is eerily it is if theyre almost mocking me like theyre saying la ha ha ha ha well show you that"]={{path="chatsounds/autoadd/memes/it is eerily it is if theyre almost mocking me like theyre saying la ha ha ha ha well show you that.ogg",length=13.640}}
@@ -174,6 +175,7 @@ L["ive got a twelve pack of that gorilla"]={{path="chatsounds/autoadd/memes/ive 
 L["jet2 holiday song"]={{path="chatsounds/autoadd/memes/jet2 holiday song.ogg",length=32.533}}
 L["jolly roger"]={{path="chatsounds/autoadd/memes/jolly roger.ogg",length=1.594}}
 L["just buy a house"]={{path="chatsounds/autoadd/memes/just buy a house.ogg",length=2.435}}
+L["kefka laugh"]={{path="chatsounds/autoadd/memes/kefka laugh.ogg",length=2.041}}
 L["kisses boys likes boys"]={{path="chatsounds/autoadd/memes/kisses boys likes boys.ogg",length=2.014}}
 L["kobe"]={{path="chatsounds/autoadd/memes/kobe.ogg",length=0.454}}
 L["kranplatze"]={{path="chatsounds/autoadd/memes/kranplatze.ogg",length=3.070}}
